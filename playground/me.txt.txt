@@ -1,3 +1,0 @@
-Name: Ayush Srivastava
-Skills: HTML, CSS, JS, React.js,Bootstrap, Material UI , Node.js, Express.js , MongoDB , POSTMAN, etc
-Email: ayushsrivastava16252@gmail.com
